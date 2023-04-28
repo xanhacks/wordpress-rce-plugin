@@ -4,13 +4,13 @@
 
 Install the plugin by uploading the [plugin.zip](plugin.zip) file.
 
-![Install the plugin](install_plugin.png)
+![Install the plugin](./assets/install_plugin.png)
 
 Active the plugin.
 
-![Activate the plugin](activate-plugin.png)
+![Activate the plugin](./assets/activate-plugin.png)
 
 Obtain an RCE in every page.
 
-![RCE command id](RCE.png)
+![RCE command id](./assets/RCE.png)
 
